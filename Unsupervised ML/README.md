@@ -1,1 +1,1 @@
-Here I have tries to differentiate in the customer data using **K-means Clustering **algorithm.
+The following folder contains project related to unsupervised Machine Learning.
